@@ -1,0 +1,4 @@
+Wed, 16 Sep 2020 13:25:37 literadar.py[line:132] DEBUG APK D:\e0\111-code\TestOnly\TestOnly\6f71c6e2aa8f7cbe82262955f9063c1606ad07bcff22635f39f52af213413430.apk's MD5 is 6f71c6e2aa8f7cbe82262955f9063c1606ad07bcff22635f39f52af213413430
+Wed, 16 Sep 2020 13:25:37 literadar.py[line:192] DEBUG Extracting D:\codes\python\FeatureGeneration\code\LibRadar\Data\Decompiled\6f71c6e2aa8f7cbe82262955f9063c1606ad07bcff22635f39f52af213413430\classes.dex
+Wed, 16 Sep 2020 13:27:00 literadar.py[line:132] DEBUG APK D:\e0\111-code\TestOnly\TestOnly\287716c446a60ad6c658da6d4ec216e3bf075cb08a6879faa465ef33aa84bbca.apk's MD5 is 287716c446a60ad6c658da6d4ec216e3bf075cb08a6879faa465ef33aa84bbca
+Wed, 16 Sep 2020 13:27:00 literadar.py[line:192] DEBUG Extracting D:\codes\python\FeatureGeneration\code\LibRadar\Data\Decompiled\287716c446a60ad6c658da6d4ec216e3bf075cb08a6879faa465ef33aa84bbca\classes.dex
