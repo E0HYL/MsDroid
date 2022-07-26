@@ -1,6 +1,4 @@
-# MsDroid
-
-- 2022-04-15: Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the Transactions on Dependable and Secure Computing (TDSC).
+# MsDroid (TDSC'22)
 
 ### Preparations
 
@@ -108,3 +106,17 @@ $outputdir
 `.pt` file is named after *APK ID* and *Behavior Subgraph ID*. 
 
 Mappings between (*APK ID*, *Behavior Subgraph ID*) and (*APK Hash*, *API Name*) for each dataset are available in `Datasets/mappings`
+
+## Citation
+
+If you find this work useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/9762803):
+
+```
+@article{he2022msdroid,
+  title={MsDroid: Identifying Malicious Snippets for Android Malware Detection},
+  author={He, Yiling and Liu, Yiping and Wu, Lei and Yang, Ziqi and Ren, Kui and Qin, Zhan},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2022},
+  publisher={IEEE}
+}
+```
