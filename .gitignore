@@ -5,6 +5,7 @@
 *.out
 *.pt
 *.dex
+*.pdf
 src/Output
 src/test_*.py
 src/androguard
