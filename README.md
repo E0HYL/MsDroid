@@ -109,7 +109,7 @@ Mappings between (*APK ID*, *Behavior Subgraph ID*) and (*APK Hash*, *API Name*)
 
 ## Citation
 
-If you find this work useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/9762803):
+If you find this work useful for your research, please consider citing our [paper](MsDroid.pdf):
 
 ```
 @article{he2022msdroid,
