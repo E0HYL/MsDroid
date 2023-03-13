@@ -109,7 +109,7 @@ Mappings between (*APK ID*, *Behavior Subgraph ID*) and (*APK Hash*, *API Name*)
 
 ## Citation
 
-If you find this work useful for your research, please consider citing our [paper](MsDroid.pdf):
+If you find this work useful for your research, please consider citing our [paper](https://www.researchgate.net/publication/360208933_MsDroid_Identifying_Malicious_Snippets_for_Android_Malware_Detection):
 
 ```
 @article{he2022msdroid,
