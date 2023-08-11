@@ -112,11 +112,14 @@ Mappings between (*APK ID*, *Behavior Subgraph ID*) and (*APK Hash*, *API Name*)
 If you find this work useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/document/9762803) ([PDF](https://www.researchgate.net/publication/360208933_MsDroid_Identifying_Malicious_Snippets_for_Android_Malware_Detection)):
 
 ```
-@article{he2022msdroid,
-  title={MsDroid: Identifying Malicious Snippets for Android Malware Detection},
-  author={He, Yiling and Liu, Yiping and Wu, Lei and Yang, Ziqi and Ren, Kui and Qin, Zhan},
-  journal={IEEE Transactions on Dependable and Secure Computing},
-  year={2022},
-  publisher={IEEE}
+@ARTICLE{he2023msdroid,
+  author={He, Yiling and Li, Yiping and Wu, Lei and Yang, Ziqi and Ren, Kui and Qin, Zhan},
+  journal={IEEE Transactions on Dependable and Secure Computing}, 
+  title={MsDroid: Identifying Malicious Snippets for Android Malware Detection}, 
+  year={2023},
+  volume={20},
+  number={3},
+  pages={2025-2039},
+  doi={10.1109/TDSC.2022.3168285}
 }
 ```
