@@ -113,7 +113,7 @@ If you find this work useful for your research, please consider citing our [pape
 
 ```
 @ARTICLE{he2023msdroid,
-  author={He, Yiling and Li, Yiping and Wu, Lei and Yang, Ziqi and Ren, Kui and Qin, Zhan},
+  author={He, Yiling and Liu, Yiping and Wu, Lei and Yang, Ziqi and Ren, Kui and Qin, Zhan},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
   title={MsDroid: Identifying Malicious Snippets for Android Malware Detection}, 
   year={2023},
