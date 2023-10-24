@@ -1,4 +1,4 @@
-# MsDroid (TDSC'22)
+# MsDroid (TDSC'23)
 
 ### Preparations
 
